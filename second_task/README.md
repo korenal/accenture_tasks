@@ -5,7 +5,6 @@ Use your preferred test automation tool to automate test case: Go to your favori
 
 ## Solution
 Implementation in Squish Froglogic automate I automate by it in work.
-\n
 There are two files:
   * tst_buy2items\test -> it contains implementation of the test
   * shared\scripts\names.py -> it contains web locators of web elements objects
