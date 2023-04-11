@@ -7,8 +7,8 @@ Use your preferred test automation tool to automate test case: Go to your favori
 Implementation in Squish Froglogic (https://www.froglogic.com/tag/squish-ide/ ) automation framework.
 \
 There are two files:
-  * suite_eshop_example\tst_buy2items\test -> it contains implementation of the test
-  * suite_eshop_example\shared\scripts\names.py -> it contains web locators of web elements objects
+  * suite_eshop_example\tst_buy2items\test -> contains implementation of the test
+  * suite_eshop_example\shared\scripts\names.py -> contains web locators of web elements objects
   
  ## Run the suite case
  You can only open this "suite_eshop_example" on Squish IDE and click on the green play button 
